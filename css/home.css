@@ -239,6 +239,13 @@ html,body {
     height: 130px;
     position: relative;
   }
+
+  .navbar {
+    margin-top: -29px;
+    background-color: dodgerblue;
+    padding: 0px;
+}
+
   
   
   

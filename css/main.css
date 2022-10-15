@@ -1,5 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@700&display=swap');
 body {
 	padding-top:50px;
+    font-family:'Fira Sans', sans-serif;
+}
+
+.navbar-brand{
+    font-family: 'Fira Sans', sans-serif; 
+    font-size:55px;
 }
 
 #masthead {
@@ -109,3 +116,15 @@ nav.navbar.row {
 a:hover {
 	color: #f00;
   }
+
+  .col-md-4 {
+    padding: 10px;
+}
+
+img.img-responsive {
+    padding: 10px;
+}
+
+
+
+
